@@ -357,7 +357,7 @@ button,
     color: #fff;
     height: 100%;
     left: 0;
-    overflow-y: auto;
+    overflow-y: show;
     position: fixed;
     text-align: right;
     top: 0;
@@ -554,7 +554,7 @@ button,
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/TDBclip.mp4");
         }
 
         #main > section.two {

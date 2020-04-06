@@ -169,7 +169,7 @@
             display: block;
             height: 100%;
             left: 0;
-            overflow-y: auto;
+            overflow-y: show;
             position: fixed;
             top: 0;
             width: 275px;
