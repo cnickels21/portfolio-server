@@ -2,7 +2,7 @@
 
 First live server deployment for our portfolio lab
 
-https://git.heroku.com/personal-portfolio-server.git
+https://personal-portfolio-server.herokuapp.com/
 
 ## Number and name of feature: Deployment
 
