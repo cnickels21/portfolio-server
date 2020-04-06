@@ -2,6 +2,8 @@
 
 First live server deployment for our portfolio lab
 
+https://git.heroku.com/personal-portfolio-server.git
+
 ## Number and name of feature: Deployment
 
 Estimate of time needed to complete: 1 hour
