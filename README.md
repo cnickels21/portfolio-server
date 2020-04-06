@@ -8,15 +8,15 @@ https://personal-portfolio-server.herokuapp.com/
 
 Estimate of time needed to complete: 1 hour
 
-Start time:
+Start time: 9:00
 
-Finish time:
+Finish time: 10:10
 
-Actual time needed to complete:
+Actual time needed to complete: Just over an hour
 
 ## Number and name of feature: Add Functionality
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 2 hours
 
 Start time:
 
